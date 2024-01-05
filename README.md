@@ -12,7 +12,7 @@
 
 ```npm install better-sqlite3 discord.js dotenv moment moment-duration-format quick.db```
 
-#### ⚠️ Em alguns casos o pacote ```better-sqlite3``` pode apresentar erro ao tentar instalar, para resolver basta criar uma nova pasta fora do projeto abrir o console e digitar ```npm init``` de enter, tente instalar na pasta apenas o ```better-sqlite3``` se instalar normalmente basta pegar ```node_modules``` e transferir para pasta do projeto.
+#### ⚠️ Em alguns casos o pacote ```better-sqlite3``` pode apresentar erro ao tentar instalar na pasta raiz do projeto, para resolver basta criar uma nova pasta fora do projeto abrir o console e digitar ```npm init``` de enter iniciando um novo ambiente, tente instalar na pasta apenas o ```better-sqlite3``` se instalar normalmente basta pegar ```node_modules``` e transferir para pasta do projeto.
 
 ## 📜 Funções do Bot
 
